@@ -1,5 +1,8 @@
 # Solutions Architect Practice Exam (React Quiz)
 
+[Go to Website ](https://anilbk10.github.io/Solutions-Architect-Practice-Exam/)
+
+
 This project is a **React-based quiz application** designed to help users practice for the **AWS Certified Solutions Architect – Associate** exam.  
 It uses **React with Vite** for fast development and includes a clean, earthy theme for a comfortable learning experience.
 
@@ -47,6 +50,10 @@ Then open your browser and visit:
 ```
 http://localhost:5173/
 ```
+🌐 Live Demo
+# OR 
+Check out the live version of the quiz application here:
+[View Live Demo](https://anilbk10.github.io/Solutions-Architect-Practice-Exam/)
 
 
 
