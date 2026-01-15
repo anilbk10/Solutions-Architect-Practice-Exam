@@ -1,19 +1,74 @@
 # Solutions Architect Practice Exam (React Quiz)
 
-This is a React-based quiz application designed to help you practice for the AWS Solutions Architect exam. The app features an earthy theme for a warm, inviting look.
+This project is a **React-based quiz application** designed to help users practice for the **AWS Certified Solutions Architect – Associate** exam.  
+It uses **React with Vite** for fast development and includes a clean, earthy theme for a comfortable learning experience.
 
-## Getting Started
+---
+
+##  Features
+- AWS Solutions Architect–style practice questions
+- Clean and responsive user interface
+- Fast development and build using Vite
+- Suitable for self-study and exam revision
+
+---
 
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
 
-### Running the App in Development
-Start the development server with:
+
+
+## 📥 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/anilbk10/Solutions-Architect-Practice-Exam.git
+```
+
+### 2️⃣ Navigate into the project directory
+```bash
+cd Solutions-Architect-Practice-Exam
+```
+
+### 3️⃣ Install dependencies
+```bash
+npm install
+```
+
+
+
+## ▶️ Running the App in Development
+
+Start the development server:
 ```bash
 npm run dev
 ```
-- Open your browser and go to [http://localhost:5173/](http://localhost:5173/) to view the app.
 
+Then open your browser and visit:
+```
+http://localhost:5173/
+```
+
+The app supports hot reload, so changes will reflect instantly.
+
+---
+
+##  Build for Production
+
+Create an optimized production build:
+```bash
+npm run build
+```
+
+Preview the production build locally:
+```bash
+npm run preview
+```
+
+---
+
+
+
+
+
+## 📄 License
+This project is intended for **educational and practice purposes only**.
