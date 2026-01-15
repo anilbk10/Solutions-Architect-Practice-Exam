@@ -48,24 +48,6 @@ Then open your browser and visit:
 http://localhost:5173/
 ```
 
-The app supports hot reload, so changes will reflect instantly.
-
----
-
-##  Build for Production
-
-Create an optimized production build:
-```bash
-npm run build
-```
-
-Preview the production build locally:
-```bash
-npm run preview
-```
-
----
-
 
 
 
