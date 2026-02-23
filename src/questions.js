@@ -199,7 +199,6 @@ export const questions = [
         focus: "Data Transfer (S3 Transfer Acceleration)",
         focusExplanation: "When moving large amounts of data over long geographical distances, network latency is often a bigger bottleneck than bandwidth. S3 Transfer Acceleration uses AWS's global edge network to speed up these uploads, making it the ideal solution for this scenario."
     },
-    ,
             {
                 id: 15,
                 text: "A company needs the ability to analyze the log files of its proprietary application. The logs are stored in JSON format in an Amazon S3 bucket. Queries will be simple and will run on-demand. A solutions architect needs to perform the analysis with minimal changes to the existing architecture. What should the solutions architect do to meet these requirements with the LEAST amount of operational overhead?",
