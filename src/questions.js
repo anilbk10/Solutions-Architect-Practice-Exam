@@ -3241,7 +3241,7 @@ export const questions = [
                 explanation: "Aurora Replicas provide a way to offload read traffic. Aurora Replicas share the same underlying storage as the main database, so lag time is generally very low. Aurora Replicas have their own endpoints, so the application will need to be configured to direct read traffic to the new endpoints.",
                 focus: "Database Read Scaling (Aurora Replicas)",
                 focusExplanation: "The primary way to scale read performance for an Aurora cluster is to add Aurora Replicas. These replicas share the same storage volume as the primary instance, providing low-latency, read-only endpoints that are ideal for offloading read traffic from the primary writer instance."
-            },,
+            },
             {
                 id: 229,
                 text: "A company collects data for temperature, humidity, and atmospheric pressure in cities across multiple continents. The average volume of data that the company collects from each site daily is 500 GB. Each site has a high-speed Internet connection. The company wants to aggregate the data from all these global sites as quickly as possible in a single Amazon S3 bucket. The solution must minimize operational complexity. Which solution meets these requirements?",
